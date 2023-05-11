@@ -9,3 +9,6 @@
 
 For reference on `quarto`, see e.g. this article https://www.ds-econ.com/quarto/
 Also, see the documentation https://quarto.org/docs/reference/formats/presentations/beamer.html
+
+
+Find the paper here: https://journals-sagepub-com.vu-nl.idm.oclc.org/doi/10.1177/0022242920912732
