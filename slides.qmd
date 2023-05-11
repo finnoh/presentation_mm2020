@@ -1,0 +1,51 @@
+---
+title: "Habits"
+subtitle:  Subtitle
+author: "John Doe"
+institute: "Your University"
+date: last-modified
+date-format: long
+format: beamer
+aspectratio: 169
+incremental: false
+include-in-header: beamer_preamble.tex
+bibliography: references.bib
+fig-align: center
+fig-cap-location: bottom
+fig-format: pdf
+links-as-notes: true
+number-depth: 1
+---
+## Getting up
+```{r, eval=TRUE, echo=FALSE}
+suppressMessages(source("main.r")) 
+```
+- Turn off alarm
+- Get out of bed
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
+
+---
+
+- Turn off alarm
+- Get out of bed
+
+## Multiple cols
+:::: {.columns}
+
+::: {.column width="33%"}
+contents...
+:::
+
+::: {.column width="33%"}
+contents...
+:::
+
+::: {.column width="33%"}
+contents...
+:::
+
+::::
