@@ -1,8 +1,8 @@
 ---
-title: "Habits"
-subtitle:  Subtitle
-author: "John Doe"
-institute: "Your University"
+title: "@melumadFullDisclosureHow2020"
+subtitle:  "Full Disclosure: How Smartphones Enhance Consumer Self-Disclosure"
+author: "Finn-Ole Höner"
+institute: "Marketing with purpose (ABRI / BDS)"
 date: last-modified
 date-format: long
 format: beamer
@@ -16,36 +16,62 @@ fig-format: pdf
 links-as-notes: true
 number-depth: 1
 ---
-## Getting up
-```{r, eval=TRUE, echo=FALSE}
-suppressMessages(source("main.r")) 
-```
-- Turn off alarm
-- Get out of bed
 
-## Going to sleep
+# Overview: Focus & Comfort increase Disclosure
 
-- Get in bed
-- Count sheep
+- Consumers tend to be \textbf{more self-disclosing on their smartphones}  due to feelings of \textbf{comfort}  and narrow attentional \textbf{focus} 
+- This tendency is found in a \textbf{wide range of domains}  including social media posts, online restaurant reviews, open-ended survey responses, and compliance with \textbf{requests for personal information}  in web advertisements
+- Important \textbf{marketing implications}, e.g. conducting consumer surveys via smartphones, ideally with text boxes to leverages attentional focus
 
----
+# Highlights: Study 1 --- Depth of Disclosure Across Devices on Twitter
+- Dataset of 369,161 tweets containing trending hashtags within a 12-hour period in December 2015, covering various topical domains, to investigate potential disparities between smartphones and PCs.
+- \textbf{Dictionary approach}  to express content of the text in 6 dimensions
+- Suplemented with \textbf{human ratings}  of tweets for two hashtag categories
+- Both analysis yield that the level of \textbf{self-disclosure is statistically different}  between smartphones and PCs
+- Reproduced with other tweet-datasets
 
-- Turn off alarm
-- Get out of bed
+# Lowlights: The presented framework
 
-## Multiple cols
+![Theoretical model from @melumadFullDisclosureHow2020](figure1.png){width=70%}
+
+\small \textit{"Notes: The model hypothesizes two parallel causal paths of mediation: one stemming from greater focus on the disclosure at hand, and the other through feelings of enhanced psychological comfort on the device."}
+
+
+# Lowlights: The implied framework
+<!-- Strange graph with direct link, in a way they are applying two treatments at once, might generalize the device -->
 :::: {.columns}
 
-::: {.column width="33%"}
-contents...
+::: {.column width="70%"}
+
+```{mermaid}
+%%| label: fig-simple
+%%| fig-cap: "Compare to @melumadFullDisclosureHow2020"
+
+graph TD;
+  id1(Device) -->id2(Attentional Focus)-->id4(Depth of Disclosure);
+  id1(Device) -->id3(Psychological Comfort)-->id4(Depth of Disclosure);
+```
+  
 :::
 
-::: {.column width="33%"}
-contents...
-:::
+::: {.column width="30%"}
+\vspace{1cm}
+The `Device` \textbf{confounds}  `Attentional Focus` and `Psychological Comfort`. 
+\vspace{0.5cm}
 
-::: {.column width="33%"}
-contents...
+However, parts of the paper suggest a \textbf{direct effect} of `Smartphone vs PC` on `Depth of Disclosure`?
+\vspace{1cm}
 :::
 
 ::::
+
+# Discussion: Open Questions, Limitations & Extensions
+
+- "I do not buy these types of products" --- Why is this rated as a "non-comply"?
+- What about \textbf{spelling assistance} on smartphones?
+- What is the role of \textbf{shame}? Is it part of `Psychological Comfort`?
+- What about other devices  e.g. \textbf{Virtual Reality}?
+- Would the smarphone ads also have a higher \textbf{ROI}?
+- \textbf{Ethics}  of managerial implications?
+
+# References
