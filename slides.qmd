@@ -20,8 +20,8 @@ number-depth: 1
 # Overview: Focus & Comfort increase Disclosure
 
 - Consumers tend to be \textbf{more self-disclosing on their smartphones}  due to feelings of \textbf{comfort}  and narrow attentional \textbf{focus} 
-- This tendency is found in a \textbf{wide range of domains}  including social media posts, online restaurant reviews, open-ended survey responses, and compliance with \textbf{requests for personal information}  in web advertisements
-- Important \textbf{marketing implications}, e.g. conducting consumer surveys via smartphones, ideally with text boxes to leverages attentional focus
+- This tendency is found in \textbf{different contexts}, such as restaurant reviews, tweets, open-ended surveys, and surrendering \textbf{personal information} in web advertisements
+- Important \textbf{marketing implications}, e.g. conducting consumer surveys via smartphones, ideally with text boxes to leverage attentional focus
 
 # Highlights: Study 1 --- Depth of Disclosure Across Devices on Twitter
 - Dataset of 369,161 tweets containing trending hashtags within a 12-hour period in December 2015, covering various topical domains, to investigate potential disparities between smartphones and PCs.
@@ -32,10 +32,15 @@ number-depth: 1
 
 # Lowlights: The presented framework
 
-![Theoretical model from @melumadFullDisclosureHow2020](figure1.png){width=70%}
+\textit{"The model hypothesizes two parallel causal paths of mediation: one stemming from greater focus on the disclosure at hand, and the other through feelings of enhanced psychological comfort on the device."}
 
-\small \textit{"Notes: The model hypothesizes two parallel causal paths of mediation: one stemming from greater focus on the disclosure at hand, and the other through feelings of enhanced psychological comfort on the device."}
+\vfill
 
+\textit{"The model hypothesized that the \textbf{direct effect}  of smartphone (vs. PC) use on human-judged depth of self-disclosure is described by \textbf{two causal paths} "}
+
+# Lowlights: The presented framework
+
+![Theoretical model from @melumadFullDisclosureHow2020](figure1.png)
 
 # Lowlights: The implied framework
 <!-- Strange graph with direct link, in a way they are applying two treatments at once, might generalize the device -->
@@ -70,7 +75,7 @@ However, parts of the paper suggest a \textbf{direct effect} of `Smartphone vs P
 - "I do not buy these types of products" --- Why is this rated as a "non-comply"?
 - What about \textbf{spelling assistance} on smartphones?
 - What is the role of \textbf{shame}? Is it part of `Psychological Comfort`?
-- What about other devices  e.g. \textbf{Virtual Reality}?
+- What about other devices  e.g. \textbf{Virtual Reality} $\to$ Metaverse?
 - Would the smarphone ads also have a higher \textbf{ROI}?
 - \textbf{Ethics}  of managerial implications?
 
